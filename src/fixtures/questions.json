@@ -1,0 +1,51 @@
+[
+  {
+    "id": "Q-1",
+    "text": "Why do one-time shampoo buyers not return?",
+    "decisionItInforms": "Whether to run a replenishment reminder or review the formula.",
+    "currentAssumption": "They don't come back because of price.",
+    "targetSegments": [
+      "one-time lapsed",
+      "first-time",
+      "frequent buyer",
+      "repeat"
+    ],
+    "productFocus": "Shampoo",
+    "ownerId": "u_growth",
+    "status": "active",
+    "createdAt": "2026-10-14T09:30:00+05:30",
+    "reusedFindingIds": []
+  },
+  {
+    "id": "Q-2",
+    "text": "How do customers describe their everyday shower routine?",
+    "decisionItInforms": "Wording and moments for the 'everyday routine' body wash campaign.",
+    "currentAssumption": "Mornings are rushed, so speed is the main message.",
+    "targetSegments": [
+      "repeat",
+      "frequent buyer"
+    ],
+    "productFocus": "Body wash",
+    "ownerId": "u_brand",
+    "status": "active",
+    "createdAt": "2026-11-03T11:00:00+05:30",
+    "reusedFindingIds": []
+  },
+  {
+    "id": "Q-3",
+    "text": "What would make moisturiser buyers reorder before they run out?",
+    "decisionItInforms": "Whether to offer a moisturiser refill bundle at checkout.",
+    "currentAssumption": "Buyers forget to reorder; a reminder alone will fix it.",
+    "targetSegments": [
+      "repeat",
+      "one-time lapsed"
+    ],
+    "productFocus": "Moisturiser",
+    "ownerId": "u_product",
+    "status": "active",
+    "createdAt": "2026-11-10T15:20:00+05:30",
+    "reusedFindingIds": [
+      "F-1"
+    ]
+  }
+]

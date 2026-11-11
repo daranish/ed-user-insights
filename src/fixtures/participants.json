@@ -1,0 +1,392 @@
+[
+  {
+    "code": "P-001",
+    "customerRef": "CR-10007",
+    "segment": "repeat",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Body wash 250 ml",
+      "firstOrderDate": "2026-05-22",
+      "lastOrderDate": "2026-10-19"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-002",
+    "customerRef": "CR-10014",
+    "segment": "first-time",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-10-02",
+      "lastOrderDate": "2026-10-02"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-003",
+    "customerRef": "CR-10021",
+    "segment": "one-time lapsed",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-08-21",
+      "lastOrderDate": "2026-08-21"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-004",
+    "customerRef": "CR-10028",
+    "segment": "frequent buyer",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Shampoo 650 ml",
+      "firstOrderDate": "2026-07-01",
+      "lastOrderDate": "2026-08-30"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-005",
+    "customerRef": "CR-10035",
+    "segment": "repeat",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Moisturiser 200 ml",
+      "firstOrderDate": "2026-05-01",
+      "lastOrderDate": "2026-09-28"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-006",
+    "customerRef": "CR-10042",
+    "segment": "one-time lapsed",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-08-14",
+      "lastOrderDate": "2026-08-14"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-007",
+    "customerRef": "CR-10049",
+    "segment": "one-time lapsed",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-08-25",
+      "lastOrderDate": "2026-08-25"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-008",
+    "customerRef": "CR-10056",
+    "segment": "first-time",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Body wash 250 ml",
+      "firstOrderDate": "2026-10-25",
+      "lastOrderDate": "2026-10-25"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-009",
+    "customerRef": "CR-10063",
+    "segment": "first-time",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-09-12",
+      "lastOrderDate": "2026-09-12"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-010",
+    "customerRef": "CR-10070",
+    "segment": "one-time lapsed",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-08-08",
+      "lastOrderDate": "2026-08-08"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-011",
+    "customerRef": "CR-10077",
+    "segment": "first-time",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-09-15",
+      "lastOrderDate": "2026-09-15"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-012",
+    "customerRef": "CR-10084",
+    "segment": "frequent buyer",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 650 ml",
+      "firstOrderDate": "2026-05-27",
+      "lastOrderDate": "2026-09-02"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-013",
+    "customerRef": "CR-10091",
+    "segment": "repeat",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Moisturiser 200 ml",
+      "firstOrderDate": "2026-05-14",
+      "lastOrderDate": "2026-10-11"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-014",
+    "customerRef": "CR-10098",
+    "segment": "first-time",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-09-20",
+      "lastOrderDate": "2026-09-20"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-015",
+    "customerRef": "CR-10105",
+    "segment": "repeat",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Body wash 250 ml",
+      "firstOrderDate": "2026-08-19",
+      "lastOrderDate": "2026-10-05"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-016",
+    "customerRef": "CR-10112",
+    "segment": "frequent buyer",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-06-30",
+      "lastOrderDate": "2026-08-29"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-017",
+    "customerRef": "CR-10119",
+    "segment": "one-time lapsed",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-08-17",
+      "lastOrderDate": "2026-08-17"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-018",
+    "customerRef": "CR-10126",
+    "segment": "one-time lapsed",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-08-11",
+      "lastOrderDate": "2026-08-11"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-019",
+    "customerRef": "CR-10133",
+    "segment": "first-time",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Body wash 250 ml",
+      "firstOrderDate": "2026-10-14",
+      "lastOrderDate": "2026-10-14"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-020",
+    "customerRef": "CR-10140",
+    "segment": "repeat",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-07-02",
+      "lastOrderDate": "2026-10-22"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-021",
+    "customerRef": "CR-10147",
+    "segment": "one-time lapsed",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Body wash 250 ml",
+      "firstOrderDate": "2026-08-03",
+      "lastOrderDate": "2026-08-03"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-022",
+    "customerRef": "CR-10154",
+    "segment": "frequent buyer",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Body wash 650 ml",
+      "firstOrderDate": "2026-07-26",
+      "lastOrderDate": "2026-09-24"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-023",
+    "customerRef": "CR-10161",
+    "segment": "frequent buyer",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Body wash 650 ml",
+      "firstOrderDate": "2026-07-10",
+      "lastOrderDate": "2026-09-09"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-024",
+    "customerRef": "CR-10168",
+    "segment": "repeat",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Body wash 250 ml",
+      "firstOrderDate": "2026-08-14",
+      "lastOrderDate": "2026-10-27"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-025",
+    "customerRef": "CR-10175",
+    "segment": "first-time",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-10-08",
+      "lastOrderDate": "2026-10-08"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-026",
+    "customerRef": "CR-10182",
+    "segment": "one-time lapsed",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 250 ml",
+      "firstOrderDate": "2026-08-19",
+      "lastOrderDate": "2026-08-19"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-027",
+    "customerRef": "CR-10189",
+    "segment": "repeat",
+    "channel": "own-site",
+    "productContext": {
+      "sku": "Moisturiser 400 ml",
+      "firstOrderDate": "2026-05-19",
+      "lastOrderDate": "2026-10-16"
+    },
+    "recruitmentSource": "export",
+    "importBatchId": "B-001"
+  },
+  {
+    "code": "P-028",
+    "customerRef": "CR-10196",
+    "segment": "frequent buyer",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Body wash 250 ml",
+      "firstOrderDate": "2026-05-27",
+      "lastOrderDate": "2026-09-30"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-029",
+    "customerRef": "CR-10203",
+    "segment": "repeat",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Shampoo 650 ml",
+      "firstOrderDate": "2026-08-24",
+      "lastOrderDate": "2026-10-12"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  },
+  {
+    "code": "P-030",
+    "customerRef": "CR-10210",
+    "segment": "first-time",
+    "channel": "marketplace",
+    "productContext": {
+      "sku": "Body wash 250 ml",
+      "firstOrderDate": "2026-10-29",
+      "lastOrderDate": "2026-10-29"
+    },
+    "recruitmentSource": "qr-opt-in",
+    "importBatchId": "B-002"
+  }
+]

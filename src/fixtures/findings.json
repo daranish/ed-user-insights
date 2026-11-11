@@ -1,0 +1,30 @@
+[
+  {
+    "id": "F-1", "questionId": "Q-1",
+    "claim": "Some one-time buyers haven't run out yet",
+    "confidence": "signal", "counterEvidenceChecked": null, "version": 3,
+    "links": [ { "evidenceId": "E-101", "stance": "supports" }, { "evidenceId": "E-102", "stance": "supports" } ],
+    "limitations": "Only lapsed buyers so far; no repeat buyers to compare usage rate with.",
+    "assumptionVerdict": "contradicts", "status": "draft",
+    "updatedAt": "2026-11-06T11:20:00+05:30", "updatedById": "u_growth"
+  },
+  {
+    "id": "F-2", "questionId": "Q-1",
+    "claim": "Price is not supported in this sample",
+    "confidence": "signal", "counterEvidenceChecked": "none-found", "version": 2,
+    "links": [ { "evidenceId": "E-109", "stance": "supports" }, { "evidenceId": "E-110", "stance": "supports" }, { "evidenceId": "E-111", "stance": "supports" }, { "evidenceId": "E-112", "stance": "supports" } ],
+    "limitations": "Four conversations; people may under-report price sensitivity to an interviewer from the brand.",
+    "assumptionVerdict": "contradicts", "status": "complete",
+    "updatedAt": "2026-11-06T11:40:00+05:30", "updatedById": "u_growth"
+  },
+  {
+    "id": "F-3", "questionId": "Q-1",
+    "claim": "Feel/texture disappointment",
+    "confidence": "signal", "counterEvidenceChecked": "none-found", "version": 1,
+    "links": [ { "evidenceId": "E-106", "stance": "supports" }, { "evidenceId": "E-107", "stance": "supports" } ],
+    "limitations": "Two people; one paraphrased. Could be water hardness rather than formula.",
+    "assumptionVerdict": "not-addressed", "status": "complete",
+    "updatedAt": "2026-11-06T12:00:00+05:30", "updatedById": "u_growth"
+  }
+
+]

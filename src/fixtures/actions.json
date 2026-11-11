@@ -1,0 +1,5 @@
+[
+  { "id": "A-1", "questionId": "Q-1", "findingIds": ["F-3"], "type": "more-research", "description": "Run 5 sensory follow-ups on the 250 ml formula with first-time buyers in hard-water cities.", "ownerId": "u_growth", "assigneeId": "u_product", "dueDate": "2026-12-05", "status": "open", "createdAt": "2026-11-06T12:05:00+05:30" },
+  { "id": "A-2", "questionId": "Q-1", "findingIds": ["F-2"], "type": "decision", "description": "Drop the price discount from the Q4 win-back plan until a test says otherwise.", "ownerId": "u_growth", "assigneeId": "u_growth", "dueDate": "2026-11-08", "status": "open", "createdAt": "2026-11-06T11:45:00+05:30" },
+  { "id": "A-3", "questionId": "Q-1", "findingIds": ["F-2", "F-1"], "type": "experiment", "description": "A/B test a day-55 replenishment reminder against no reminder for 250 ml buyers.", "ownerId": "u_growth", "assigneeId": "u_product", "dueDate": "2026-12-15", "status": "in-progress", "createdAt": "2026-11-07T09:00:00+05:30" }
+]

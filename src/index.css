@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import "./styles/layro.css";
+
+/* Calm, neutral, professional: a muted slate-teal accent on neutral greys.
+   Overrides only Layro's CSS variables; component files are untouched. */
+:root {
+  --background: oklch(0.985 0.002 250);
+  --card: oklch(1 0 0);
+  --primary: oklch(0.42 0.06 220);
+  --primary-foreground: oklch(0.985 0 0);
+  --ring: oklch(0.42 0.06 220 / 0.45);
+  --muted: oklch(0.962 0.004 250);
+  --accent: oklch(0.955 0.008 220);
+  --radius: 0.5rem;
+  --status-live: var(--primary);
+  --status-unread: var(--primary);
+  --glow-1: var(--primary);
+  --glow-2: var(--primary);
+  --glow-3: var(--primary);
+  /* The SIMULATED marker colour (not a Layro token; used by our SimBadge only). */
+  --simulated: oklch(0.5 0.17 300);
+}
+
+html, body, #root { height: 100%; }
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: ui-sans-serif, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}

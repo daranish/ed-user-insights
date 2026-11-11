@@ -1,0 +1,6 @@
+[
+  { "id": "L-1", "at": "2026-10-12T10:00:00+05:30", "actorId": "u_ops", "action": "import.committed", "target": "Batch B-001 (12 participants)", "level": "info" },
+  { "id": "L-2", "at": "2026-10-20T09:12:00+05:30", "actorId": "u_growth", "action": "contact.revealed", "target": "P-003 for Q-1", "level": "warn" },
+  { "id": "L-3", "at": "2026-11-02T10:00:00+05:30", "actorId": "u_ops", "action": "import.committed", "target": "Batch B-002 (18 participants)", "level": "info" },
+  { "id": "L-4", "at": "2026-11-06T11:20:00+05:30", "actorId": "u_growth", "action": "finding.saved", "target": "F-1 v3", "level": "info" }
+]

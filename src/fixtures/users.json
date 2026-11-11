@@ -1,0 +1,8 @@
+[
+  { "id": "u_growth", "name": "Ananya Rao", "title": "Growth lead", "email": "ananya@everydaygoods.example", "role": "owner" },
+  { "id": "u_brand", "name": "Kabir Mehta", "title": "Brand lead", "email": "kabir@everydaygoods.example", "role": "owner" },
+  { "id": "u_product", "name": "Meera Iyer", "title": "Product lead", "email": "meera@everydaygoods.example", "role": "owner" },
+  { "id": "u_ops", "name": "Ravi Kumar", "title": "Ops / data steward", "email": "ravi@everydaygoods.example", "role": "admin" },
+  { "id": "u_ceo", "name": "Sana Kapoor", "title": "CEO", "email": "sana@everydaygoods.example", "role": "viewer", "canRaiseQuestion": true, "executive": true },
+  { "id": "u_cx", "name": "Farah Sheikh", "title": "CX lead", "email": "farah@everydaygoods.example", "role": "viewer", "canRaiseQuestion": true }
+]

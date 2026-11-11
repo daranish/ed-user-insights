@@ -1,0 +1,122 @@
+[
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-003",
+    "status": "done",
+    "couponStatus": "redeemed",
+    "scheduledAt": "2026-10-28T11:00:00+05:30",
+    "meetLink": "https://meet.google.com/eds-q1-003",
+    "consentRecord": true,
+    "consentQuote": true
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-007",
+    "status": "done",
+    "couponStatus": "n/a",
+    "scheduledAt": "2026-10-30T15:30:00+05:30",
+    "meetLink": "https://meet.google.com/eds-q1-007",
+    "consentRecord": true,
+    "consentQuote": false
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-011",
+    "status": "done",
+    "couponStatus": "sent",
+    "scheduledAt": "2026-11-03T10:00:00+05:30",
+    "meetLink": "https://meet.google.com/eds-q1-011",
+    "consentRecord": false,
+    "consentQuote": true
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-016",
+    "status": "done",
+    "couponStatus": "n/a",
+    "scheduledAt": "2026-11-05T17:00:00+05:30",
+    "meetLink": "https://meet.google.com/eds-q1-016",
+    "consentRecord": true,
+    "consentQuote": false
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-009",
+    "status": "accepted",
+    "couponStatus": "n/a",
+    "scheduledAt": "2026-11-11T16:00:00+05:30",
+    "meetLink": "https://meet.google.com/eds-q1-009",
+    "consentRecord": true,
+    "consentQuote": false
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-006",
+    "status": "invited",
+    "couponStatus": "offered",
+    "invitedAt": "2026-11-10T10:15:00+05:30"
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-012",
+    "status": "invited",
+    "couponStatus": "n/a",
+    "invitedAt": "2026-11-10T10:15:00+05:30"
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-004",
+    "status": "declined",
+    "declineReason": "Too busy this month",
+    "couponStatus": "offered"
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-010",
+    "status": "declined",
+    "declineReason": "Not comfortable on a call",
+    "couponStatus": "n/a"
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-014",
+    "status": "declined",
+    "declineReason": "Tried it once and doesn't plan to use it again",
+    "couponStatus": "n/a"
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-017",
+    "status": "no-show",
+    "couponStatus": "n/a",
+    "scheduledAt": "2026-11-04T12:00:00+05:30",
+    "meetLink": "https://meet.google.com/eds-q1-017",
+    "consentRecord": true,
+    "consentQuote": true
+  },
+  {
+    "questionId": "Q-1",
+    "participantCode": "P-018",
+    "status": "no-show",
+    "couponStatus": "offered",
+    "scheduledAt": "2026-11-06T09:30:00+05:30",
+    "meetLink": "https://meet.google.com/eds-q1-018",
+    "consentRecord": true,
+    "consentQuote": true
+  },
+  {
+    "questionId": "Q-2",
+    "participantCode": "P-022",
+    "status": "invited",
+    "couponStatus": "offered",
+    "invitedAt": "2026-11-10T10:15:00+05:30"
+  },
+  {
+    "questionId": "Q-2",
+    "participantCode": "P-024",
+    "status": "invite-requested",
+    "couponStatus": "n/a",
+    "inviteRequestedAt": "2026-11-12T09:40:00+05:30",
+    "inviteRequestedById": "u_brand"
+  }
+]

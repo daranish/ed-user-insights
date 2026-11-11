@@ -1,0 +1,4 @@
+[
+  { "id": "B-001", "at": "2026-10-12T10:00:00+05:30", "byId": "u_ops", "fileName": "own-site-export-oct-2026.csv", "rowsTotal": 13, "rowsImported": 12, "rowsFailed": 1, "duplicates": 0, "rejectedColumns": [], "participantCodes": ["P-001","P-002","P-003","P-004","P-005","P-006","P-008","P-011","P-013","P-018","P-022","P-027"], "status": "committed" },
+  { "id": "B-002", "at": "2026-11-02T10:00:00+05:30", "byId": "u_ops", "fileName": "qr-opt-ins-weeks-40-44.csv", "rowsTotal": 18, "rowsImported": 18, "rowsFailed": 0, "duplicates": 0, "rejectedColumns": [], "participantCodes": ["P-007","P-009","P-010","P-012","P-014","P-015","P-016","P-017","P-019","P-020","P-021","P-023","P-024","P-025","P-026","P-028","P-029","P-030"], "status": "committed" }
+]

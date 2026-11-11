@@ -1,0 +1,182 @@
+[
+  {
+    "participantCode": "P-001",
+    "name": "Aarav Shah",
+    "email": "aarav.shah@example.com",
+    "phone": "+91 98000 10000"
+  },
+  {
+    "participantCode": "P-002",
+    "name": "Diya Menon",
+    "email": "diya.menon@example.com",
+    "phone": "+91 98012 10357"
+  },
+  {
+    "participantCode": "P-003",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@example.com",
+    "phone": "+91 98024 10714"
+  },
+  {
+    "participantCode": "P-004",
+    "name": "Ishita Nair",
+    "email": "ishita.nair@example.com",
+    "phone": "+91 98037 11071"
+  },
+  {
+    "participantCode": "P-005",
+    "name": "Vikram Joshi",
+    "email": "vikram.joshi@example.com",
+    "phone": "+91 98049 11428"
+  },
+  {
+    "participantCode": "P-006",
+    "name": "Sneha Pillai",
+    "email": "sneha.pillai@example.com",
+    "phone": "+91 98061 11785"
+  },
+  {
+    "participantCode": "P-007",
+    "name": "Kavya Reddy",
+    "email": "kavya.reddy@example.com",
+    "phone": "+91 98074 12142"
+  },
+  {
+    "participantCode": "P-008",
+    "name": "Arjun Das",
+    "email": "arjun.das@example.com",
+    "phone": "+91 98086 12499"
+  },
+  {
+    "participantCode": "P-009",
+    "name": "Nikhil Bose",
+    "email": "nikhil.bose@example.com",
+    "phone": "+91 98098 12856"
+  },
+  {
+    "participantCode": "P-010",
+    "name": "Priya Singh",
+    "email": "priya.singh@example.com",
+    "phone": "+91 98111 13213"
+  },
+  {
+    "participantCode": "P-011",
+    "name": "Manjunath Gowda",
+    "email": "manjunath.gowda@example.com",
+    "phone": "+91 98123 13571"
+  },
+  {
+    "participantCode": "P-012",
+    "name": "Anjali Verma",
+    "email": "anjali.verma@example.com",
+    "phone": "+91 98135 13928"
+  },
+  {
+    "participantCode": "P-013",
+    "name": "Siddharth Rao",
+    "email": "siddharth.rao@example.com",
+    "phone": "+91 98148 14285"
+  },
+  {
+    "participantCode": "P-014",
+    "name": "Pooja Iyer",
+    "email": "pooja.iyer@example.com",
+    "phone": "+91 98160 14642"
+  },
+  {
+    "participantCode": "P-015",
+    "name": "Rahul Khanna",
+    "email": "rahul.khanna@example.com",
+    "phone": "+91 98172 14999"
+  },
+  {
+    "participantCode": "P-016",
+    "name": "Sunita Yadav",
+    "email": "sunita.yadav@example.com",
+    "phone": "+91 98185 15356"
+  },
+  {
+    "participantCode": "P-017",
+    "name": "Deepak Chauhan",
+    "email": "deepak.chauhan@example.com",
+    "phone": "+91 98197 15713"
+  },
+  {
+    "participantCode": "P-018",
+    "name": "Lakshmi Krishnan",
+    "email": "lakshmi.krishnan@example.com",
+    "phone": "+91 98209 16070"
+  },
+  {
+    "participantCode": "P-019",
+    "name": "Harsh Malhotra",
+    "email": "harsh.malhotra@example.com",
+    "phone": "+91 98222 16427"
+  },
+  {
+    "participantCode": "P-020",
+    "name": "Neha Kulkarni",
+    "email": "neha.kulkarni@example.com",
+    "phone": "+91 98234 16784"
+  },
+  {
+    "participantCode": "P-021",
+    "name": "Imran Qureshi",
+    "email": "imran.qureshi@example.com",
+    "phone": "+91 98246 17142"
+  },
+  {
+    "participantCode": "P-022",
+    "name": "Meghna Sen",
+    "email": "meghna.sen@example.com",
+    "phone": "+91 98259 17499"
+  },
+  {
+    "participantCode": "P-023",
+    "name": "Gaurav Mishra",
+    "email": "gaurav.mishra@example.com",
+    "phone": "+91 98271 17856"
+  },
+  {
+    "participantCode": "P-024",
+    "name": "Tanvi Desai",
+    "email": "tanvi.desai@example.com",
+    "phone": "+91 98283 18213"
+  },
+  {
+    "participantCode": "P-025",
+    "name": "Varun Hegde",
+    "email": "varun.hegde@example.com",
+    "phone": "+91 98296 18570"
+  },
+  {
+    "participantCode": "P-026",
+    "name": "Ritika Saxena",
+    "email": "ritika.saxena@example.com",
+    "phone": "+91 98308 18927"
+  },
+  {
+    "participantCode": "P-027",
+    "name": "Karthik Subramanian",
+    "email": "karthik.subramanian@example.com",
+    "phone": "+91 98320 19284"
+  },
+  {
+    "participantCode": "P-028",
+    "name": "Fatima Ansari",
+    "email": "fatima.ansari@example.com",
+    "phone": "+91 98333 19641"
+  },
+  {
+    "participantCode": "P-029",
+    "name": "Abhishek Patil",
+    "email": "abhishek.patil@example.com",
+    "phone": "+91 98345 19998"
+  },
+  {
+    "participantCode": "P-030",
+    "name": "Shreya Banerjee",
+    "email": "shreya.banerjee@example.com",
+    "phone": "+91 98358 20355"
+  }
+]
